@@ -1,0 +1,70 @@
+body {
+  background-color: #FFE9BD;
+  color: #000000;
+  font-size: 16px;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+p {
+  font-size: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+nav {
+  background-color: rgba(0,0,150,0.2);
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
