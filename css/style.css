@@ -23,6 +23,7 @@ a {
 
 nav {
   background-color: rgba(0,0,150,0.2);
+  color: #000000;
   float: left;
   position: fixed;
   width: 100%;
